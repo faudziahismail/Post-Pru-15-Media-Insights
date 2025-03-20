@@ -11,7 +11,7 @@
 2. Top Hashtags Used
    * Referred based on conversation where the keyword is used associated with the hashtag
 3. Top Gender Contributed to the conversations
-   * It could only be done on Twitter as other forms of media were't able to identify its gender
+   * It could only be done on Twitter as other forms of media weren't able to identify its gender
 4. General Sentiments of the Focused keyword
    * Sentiment were broken down into Neutral, Positive, Negative and Not Rated
 5. Overall conversation traffic picked up based on the timings of the day were also analyzed
